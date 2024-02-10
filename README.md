@@ -21,7 +21,7 @@
 5. Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track MoM fluctuations.
 
 
-# Good Loan v Bad Loan KPI’s
+# Good Loan vs Bad Loan KPI’s
 
 **Good Loan:**
 
