@@ -49,7 +49,7 @@
 
 Provide insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
 
-**DASHBOARD 2: OVERVIEW**
+#**DASHBOARD 2: OVERVIEW**
 
 **CHARTS**
 
